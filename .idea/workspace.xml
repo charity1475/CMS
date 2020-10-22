@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/CategoryResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/vo/CategoryRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/News.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,19 +63,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603355568767</updated>
-      <workItem from="1603355573198" duration="4711000" />
+      <workItem from="1603355573198" duration="7759000" />
+      <workItem from="1603373524131" duration="1654000" />
     </task>
     <servers />
   </component>
@@ -100,8 +89,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1603377341365">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1603377341365" />
     <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl" timestamp="1603355733551">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
