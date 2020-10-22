@@ -22,7 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="" />
+    <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/UserResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/vo/UserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/vo/CategoryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/vo/CategoryRequest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +65,21 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603355568767</updated>
       <workItem from="1603355573198" duration="7759000" />
-      <workItem from="1603373524131" duration="2246000" />
+      <workItem from="1603373524131" duration="3909000" />
     </task>
     <servers />
   </component>
