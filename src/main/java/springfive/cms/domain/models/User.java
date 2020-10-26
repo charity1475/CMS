@@ -8,16 +8,4 @@ public class User {
     String identity;
     String name;
     Role role;
-
-    public void setIdentity(String identity) {
-        this.identity = identity;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setRole(Role role) {
-        this.role = role;
-    }
 }

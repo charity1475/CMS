@@ -8,16 +8,4 @@ public class UserRequest {
     String identity;
     String name;
     Role role;
-
-    public String getName() {
-        return name;
-    }
-
-    public Role getRole() {
-        return role;
-    }
-
-    public String getIdentity() {
-        return identity;
-    }
 }
