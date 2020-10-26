@@ -24,8 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/vo/UserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/vo/UserRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <workItem from="1603489004946" duration="114000" />
       <workItem from="1603645509397" duration="13401000" />
       <workItem from="1603704673860" duration="2462000" />
-      <workItem from="1603737404621" duration="1378000" />
+      <workItem from="1603737404621" duration="2097000" />
     </task>
     <servers />
   </component>
