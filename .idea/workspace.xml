@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/infra/swagger/SwaggerConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/CategoryResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,7 @@
       <workItem from="1603645509397" duration="13401000" />
       <workItem from="1603704673860" duration="2462000" />
       <workItem from="1603737404621" duration="2330000" />
-      <workItem from="1603776699379" duration="2981000" />
+      <workItem from="1603776699379" duration="5053000" />
     </task>
     <servers />
   </component>
@@ -117,10 +116,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1603663707274">
+    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1603781964523">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1603663707274" />
+    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1603781964523" />
     <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl" timestamp="1603489143503">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
