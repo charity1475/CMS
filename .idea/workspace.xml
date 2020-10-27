@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/NewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/infra/swagger/SwaggerConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -97,7 +97,7 @@
       <workItem from="1603645509397" duration="13401000" />
       <workItem from="1603704673860" duration="2462000" />
       <workItem from="1603737404621" duration="2330000" />
-      <workItem from="1603776699379" duration="992000" />
+      <workItem from="1603776699379" duration="2981000" />
     </task>
     <servers />
   </component>
