@@ -23,6 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/services.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -62,6 +68,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,13 +76,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,6 +105,7 @@
       <workItem from="1603704673860" duration="2462000" />
       <workItem from="1603737404621" duration="2330000" />
       <workItem from="1603776699379" duration="5789000" />
+      <workItem from="1604001014609" duration="2320000" />
     </task>
     <servers />
   </component>
