@@ -24,7 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/app/components/news/news-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/news/news-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/app/components/users/user-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/users/user-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/app/components/users/user-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/app/components/users/user-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +79,19 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="CmsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="springfive.cms.CmsApplication" />
+      <module name="cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springfive.cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -89,6 +103,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CmsApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,7 +126,7 @@
       <workItem from="1603776699379" duration="5789000" />
       <workItem from="1604001014609" duration="8330000" />
       <workItem from="1604036179382" duration="5082000" />
-      <workItem from="1604081037036" duration="5820000" />
+      <workItem from="1604081037036" duration="7422000" />
     </task>
     <servers />
   </component>
@@ -135,6 +154,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1604049215498" />
+    <state width="1238" height="487" key="GridCell.Tab.0.bottom" timestamp="1604092310648">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1238" height="487" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604092310648" />
+    <state width="1238" height="487" key="GridCell.Tab.0.center" timestamp="1604092310647">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1238" height="487" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604092310647" />
+    <state width="1238" height="487" key="GridCell.Tab.0.left" timestamp="1604092310646">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1238" height="487" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604092310646" />
+    <state width="1238" height="487" key="GridCell.Tab.0.right" timestamp="1604092310648">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1238" height="487" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604092310648" />
     <state x="136" y="27" width="1155" height="741" key="Maven.ArtifactSearchDialog" timestamp="1603658978974">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -147,5 +182,9 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="72" y="27" width="1284" height="741" key="new project wizard/72.27.1294.741@72.27.1294.741" timestamp="1603489088812" />
+    <state x="299" y="170" key="run.anything.popup" timestamp="1604092148125">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="299" y="170" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1604092148125" />
   </component>
 </project>
