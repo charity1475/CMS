@@ -1,9 +1,6 @@
 spring:
-datasource:
-url: jdbc:postgresql://localhost:5432/postgres
-username: postgres
-password: cms@springfive
-driver-class-name: org.postgresql.Driver
-jpa:
-show-sql: true
-generate-ddl: true
+  data:
+    mongodb:
+      database: cms
+      host: localhost
+      port: 27017
