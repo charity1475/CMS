@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="" />
+    <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +69,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-core-spring-mvc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../board" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -123,6 +126,10 @@
       <workItem from="1604001014609" duration="8330000" />
       <workItem from="1604036179382" duration="5082000" />
       <workItem from="1604081037036" duration="9042000" />
+      <workItem from="1604257520769" duration="37000" />
+      <workItem from="1604739545425" duration="598000" />
+      <workItem from="1604829844098" duration="616000" />
+      <workItem from="1604861039734" duration="3029000" />
     </task>
     <servers />
   </component>
@@ -150,26 +157,26 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1603781964523" />
-    <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl" timestamp="1604049215498">
+    <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl" timestamp="1604836875513">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1604049215498" />
-    <state width="1238" height="487" key="GridCell.Tab.0.bottom" timestamp="1604094473950">
+    <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1604836875513" />
+    <state width="1238" height="487" key="GridCell.Tab.0.bottom" timestamp="1604864431433">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604094473950" />
-    <state width="1238" height="487" key="GridCell.Tab.0.center" timestamp="1604094473950">
+    <state width="1238" height="487" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604864431433" />
+    <state width="1238" height="487" key="GridCell.Tab.0.center" timestamp="1604864431432">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604094473950" />
-    <state width="1238" height="487" key="GridCell.Tab.0.left" timestamp="1604094473949">
+    <state width="1238" height="487" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604864431432" />
+    <state width="1238" height="487" key="GridCell.Tab.0.left" timestamp="1604864431431">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604094473949" />
-    <state width="1238" height="487" key="GridCell.Tab.0.right" timestamp="1604094473950">
+    <state width="1238" height="487" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604864431431" />
+    <state width="1238" height="487" key="GridCell.Tab.0.right" timestamp="1604864431433">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604094473950" />
+    <state width="1238" height="487" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604864431433" />
     <state x="136" y="27" width="1155" height="741" key="Maven.ArtifactSearchDialog" timestamp="1603658978974">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
