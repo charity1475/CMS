@@ -5,8 +5,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import springfive.cms.domain.models.News;
 import springfive.cms.domain.models.Review;
-import springfive.cms.domain.models.User;
-import springfive.cms.domain.vo.CategoryRequest;
 import springfive.cms.domain.vo.NewsRequest;
 
 import java.util.Arrays;

@@ -23,10 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/repository/NewsRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/repository/CategoryRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/NewsResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/NewsResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/NewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/NewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/services/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +136,7 @@
       <workItem from="1604739545425" duration="598000" />
       <workItem from="1604829844098" duration="616000" />
       <workItem from="1604861039734" duration="5485000" />
-      <workItem from="1604903200959" duration="3668000" />
+      <workItem from="1604903200959" duration="4697000" />
     </task>
     <servers />
   </component>
