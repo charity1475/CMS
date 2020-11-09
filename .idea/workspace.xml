@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/models/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,7 @@
       <workItem from="1604739545425" duration="598000" />
       <workItem from="1604829844098" duration="616000" />
       <workItem from="1604861039734" duration="5485000" />
-      <workItem from="1604903200959" duration="584000" />
+      <workItem from="1604903200959" duration="1004000" />
     </task>
     <servers />
   </component>
@@ -146,10 +148,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="445" y="87" width="539" height="677" key="#HTTP_Proxy/72.27.1294.741@72.27.1294.741" timestamp="1604093277946" />
-    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1603781964523">
+    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser" timestamp="1604905266585">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1603781964523" />
+    <state x="480" y="49" width="468" height="704" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1604905266585" />
     <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl" timestamp="1604836875513">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
