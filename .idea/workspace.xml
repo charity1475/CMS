@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d4cf1e4c-2ddf-40e2-9dbd-96d9c62d27bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/springfive/cms/domain/resources/CategoryResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +93,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CmsApplication" />
@@ -121,7 +133,7 @@
       <workItem from="1604829844098" duration="616000" />
       <workItem from="1604861039734" duration="5485000" />
       <workItem from="1604903200959" duration="5553000" />
-      <workItem from="1604994751289" duration="5338000" />
+      <workItem from="1604994751289" duration="9264000" />
     </task>
     <servers />
   </component>
@@ -157,22 +169,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="449" y="98" width="530" height="605" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1605033892219" />
-    <state width="1238" height="487" key="GridCell.Tab.0.bottom" timestamp="1605034812203">
+    <state width="1238" height="487" key="GridCell.Tab.0.bottom" timestamp="1605040403358">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1605034812203" />
-    <state width="1238" height="487" key="GridCell.Tab.0.center" timestamp="1605034812201">
+    <state width="1238" height="487" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1605040403358" />
+    <state width="1238" height="487" key="GridCell.Tab.0.center" timestamp="1605040403356">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1605034812201" />
-    <state width="1238" height="487" key="GridCell.Tab.0.left" timestamp="1605034812200">
+    <state width="1238" height="487" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1605040403356" />
+    <state width="1238" height="487" key="GridCell.Tab.0.left" timestamp="1605040403355">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1605034812200" />
-    <state width="1238" height="487" key="GridCell.Tab.0.right" timestamp="1605034812202">
+    <state width="1238" height="487" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1605040403355" />
+    <state width="1238" height="487" key="GridCell.Tab.0.right" timestamp="1605040403357">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="1238" height="487" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1605034812202" />
+    <state width="1238" height="487" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1605040403357" />
     <state x="136" y="27" width="1155" height="741" key="Maven.ArtifactSearchDialog" timestamp="1603658978974">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
