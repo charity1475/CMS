@@ -7,6 +7,8 @@ import io.swagger.annotations.ApiResponses;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import reactor.core.publisher.Flux;
+import reactor.core.publisher.Mono;
 import springfive.cms.domain.models.Category;
 import springfive.cms.domain.services.CategoryService;
 import springfive.cms.domain.vo.CategoryRequest;
@@ -31,8 +33,8 @@ public class CategoryResource {
             @ApiResponse(code = 200,message = "Category found"),
             @ApiResponse(code = 404, message = "Category not found"),
     })
-    public ResponseEntity<Category> findOne(@PathVariable("id") String id){
-        return ResponseEntity.ok( new Category());
+    public ResponseEntity<Mono<Category>> findOne(@PathVariable("id") String id){
+        return ResponseEntity.ok(this.categoryService.findOne(id));
     }
 
     @GetMapping
@@ -41,8 +43,8 @@ public class CategoryResource {
             @ApiResponse(code = 200,message = "Categories found"),
             @ApiResponse(code = 404, message = "Category not found"),
     })
-    public ResponseEntity<List<Category>> findAll(){
-        return ResponseEntity.ok(Arrays.asList(new Category(), new Category()));
+    public ResponseEntity<Flux<Category>> findAll(){
+        return ResponseEntity.ok(this.categoryService.findAll());
     }
 
     @PostMapping
@@ -51,8 +53,9 @@ public class CategoryResource {
             @ApiResponse(code = 201,message = "Category created successfully"),
             @ApiResponse(code = 400, message = "Invalid request"),
     })
-    public ResponseEntity<Category> newCategory(CategoryRequest category){
-        return new ResponseEntity<>( new Category(), HttpStatus.CREATED);
+    public ResponseEntity<Mono<Category>> newCategory(@RequestBody CategoryRequest category){
+        return new ResponseEntity<>(this.categoryService.create(category),
+                HttpStatus.CREATED);
     }
 
     @DeleteMapping("/{id}")
@@ -63,7 +66,7 @@ public class CategoryResource {
             @ApiResponse(code = 404, message = "Category not found"),
     })
     public void removeCategory (@PathVariable("id") String id){
-
+        this.categoryService.delete(id);
     }
 
     @PutMapping("/{id}")
@@ -74,7 +77,9 @@ public class CategoryResource {
             @ApiResponse(code = 404, message = "Category not found"),
             @ApiResponse(code = 400, message = "Invalid request")
     })
-    public ResponseEntity<Category> updateCategory( @PathVariable("id") String id, CategoryRequest category){
-        return new ResponseEntity<>(new Category(), HttpStatus.OK);
+    public ResponseEntity<Mono<Category>> updateCategory( @PathVariable("id") String id, CategoryRequest category){
+        return new
+                ResponseEntity<>(this.categoryService.update(id,category),
+                HttpStatus.OK);
     }
 }
