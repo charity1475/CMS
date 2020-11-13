@@ -141,5 +141,17 @@
 
 		</plugins>
 	</build>
+	
+<distributionManagement>
+    <repository>
+        <id>releases</id>
+        <url>https://github.com/charity1475/CMS/releases</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <url>https://github.com/charity1475/CMS/snapshots</url>
+    </snapshotRepository>
+</distributionManagement>
+
 
 </project>
